@@ -56,7 +56,7 @@ I design architectures that think, learn, align, and evolve.
 
 ## 🔗 Connect
 **Email:** matthewdavis.ai.architect@gmail.com  
-**LinkedIn:** *(insert your LinkedIn URL)*  
+**LinkedIn:** https://www.linkedin.com/in/mdavis01/
 
 ---
 
