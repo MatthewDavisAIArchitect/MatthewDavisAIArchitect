@@ -1,10 +1,10 @@
-# Matthew Davis — Generative AI Enterprise Architect  
+# Matthew Davis — Enterprise AI Architect (Governance + Research)  
 Designing reflexive, semantic, and adaptive systems for AI-native organizations.
 
 ---
 
 ## 👋 Welcome
-I’m a Generative AI Enterprise Architect focused on building **governed, reflexive, and semantically coherent architectures** that help organizations evolve toward AI-native operations.
+I’m an Enterprise AI Architect focused on building **governed, reflexive, and semantically coherent architectures** that help organizations evolve toward AI-native operations.
 
 My work spans **reasoning systems**, **semantic governance**, **cognitive architectures**, and **enterprise-scale transformation**.  
 I treat architecture as a **living knowledge system**—structured, adaptive, and continuously self-correcting.
